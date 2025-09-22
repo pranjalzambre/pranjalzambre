@@ -6,13 +6,19 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
+<img align="right" height="220" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 
 ###
 
-<p align="left">🔭 Currently building a Fleet Management Website at Nibatek Chemical Pvt Ltd<br>🌱 My focus is on learning Spring Boot and diving into Agentic AI<br>🧠 I'm seeking help with anything AI-related<br>👨‍💻 Feel free to ask me about Web Development<br>📬 Reach out to me: pranjalzambre@gmail.com</p>
+<p align="left">🔭 Currently building a Fleet Management Website at Nibatek Chemical Pvt Ltd<br><br>🌱 My focus is on learning Spring Boot and diving into Agentic AI<br><br>🧠 I'm seeking help with anything AI-related<br><br>👨‍💻 Feel free to ask me about Web Development<br><br>📬 Reach out to me: pranjalzambre@gmail.com</p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -85,6 +91,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
+
+###
+
+<p align="left"></p>
 
 ###
 
